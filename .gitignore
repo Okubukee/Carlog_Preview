@@ -1,0 +1,26 @@
+# Gradle
+.gradle/
+build/
+bin/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IntelliJ
+.idea/
+
+# VSCode
+.vscode/
+
+# Mac
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Dumps
+*.hprof
+*.stackdump
+bash.exe.stackdump
+
+# Local properties
+local.properties

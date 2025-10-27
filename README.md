@@ -1,7 +1,9 @@
 # Carlog_Preview
 
+<div>
 <pre align="left">
 The project is simply a presentation; it was my last project for my DAM certification. It's not the original; it's been completely modified. Not everything is functional, but it's a concept of what it could be. I'm leaving the project as a presentation because I don't really see the motivation to continue and prefer to focus on other projects. That said, thanks for reading, and if you'd like to talk about the project or anything else, feel free to contact me.</pre>
+</div>
 
 
 <!-- 🛠️ TECH STACK SECTION -->
